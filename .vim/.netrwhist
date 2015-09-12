@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/search/wangzhen/.vim/bundle/..'
+let g:netrw_dirhist_2='/search/wangzhen/.vim/bundle/vimwiki/posts'
+let g:netrw_dirhist_3='/search/wangzhen/.vim/bundle/vimwiki'
