@@ -15,7 +15,7 @@ set is
 syntax on
 set ts=4
 set sw=4
-set expandtab
+"set expandtab
 set cinoptions=:0,g0
 set si
 set fdm=manual
