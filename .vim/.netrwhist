@@ -1,7 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/search/wangzhen/.vim/bundle/..'
 let g:netrw_dirhist_2='/search/wangzhen/.vim/bundle/vimwiki/posts'
 let g:netrw_dirhist_3='/search/wangzhen/.vim/bundle/vimwiki'
 let g:netrw_dirhist_4='/etc/logrotate.d'
 let g:netrw_dirhist_5='/search/wangzhen/explore_reader'
+let g:netrw_dirhist_6='/search/odin/task/monitor_script'
