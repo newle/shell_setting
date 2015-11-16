@@ -18,6 +18,9 @@ alias rand='sh /search/wangzhen/tools/rand '
 source /usr/bin/virtualenvwrapper.sh 
 
 bind Space:magic-space
+export EDITOR=vim
+
+alias kk='sh /search/wangzhen/tools/kill.sh '
 
 
 #if [ -f /etc/profile ]; then . /etc/profile; fi
